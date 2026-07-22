@@ -1,5 +1,5 @@
 # 💫 About Me: 
-📡🔗Currently working on my website www.meesamali.com<br>🧑‍🎓studying Information Technology at BSBI<br>🧑‍💻working as Cloud Engineer/Backend Developer since 2020 
+📡🔗Currently working on my website www.meesamali.com<br>🧑‍🎓MSc Information Technology & Management at BSBI<br>🧑‍💻working as Cloud Engineer/ Software Developer since 2020 
 
 
 ## 🌐 Socials:
